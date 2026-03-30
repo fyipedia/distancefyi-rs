@@ -1,6 +1,6 @@
 [package]
 name = "distancefyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Haversine distance calculation and travel time estimation — async API client for distancefyi.com."
